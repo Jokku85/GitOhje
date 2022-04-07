@@ -34,4 +34,5 @@ Loppu cheatsheet [täältä](https://education.github.com/git-cheat-sheet-educat
 5. push
 6. pull request omasta haarukasta siihen alkuperäiseen
 7. kirjoita tekosyysi miksi kaikkia ohjelmointikäytänteitä rikkovan purkkakoodisi tulisi mergettää alkuperäiseen repoon
-8. tukehdu ilmaan kun näet tämän ![kuva](merge.png)
+8. tukehdu ilmaan kun näet tämän:
+![kuva](merge.png)
