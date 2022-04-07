@@ -18,7 +18,7 @@ Eli jos vaikka kirjotat 267 riviä jumalan hylkäämää siansaksaa (JavaScript)
 | fetch | Hakee uusimman version kaikista brancheista github repositorysta tai vastaavasta |
 | pull | Vetää fetchistä haetut tiedot omaan käyttöön |
 | merge [branch] | yhdistää nimetyn branchin nykyiseen branchiin |
-| checkout | Vaihtaa owrking directoryn toiseen branchiin |
+| checkout | Vaihtaa working directoryn toiseen branchiin |
 | push | Työntää commitatut muutokset netissä olevaan repositoryyn mihin nyt ikinä linkititkään |
 | status | Näyttää tilanteen, mahdolliset commitit jne. |
 
